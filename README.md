@@ -55,3 +55,5 @@
 - 🍭 twitter: <a href="https://twitter.com/aantemeridiem">@aantemeridiem</a> 
 - 🍭 email: amna.a.mirghani@gmail.com
 
+## credits
+Image by <a href=" https://www.vectorportal.com" >Vectorportal.com</a>,  <a class="external text" href="https://creativecommons.org/licenses/by/4.0/" >CC BY</a>
