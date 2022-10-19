@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://amnaahmed.netlify.app/"><img src="https://github.com/nono5342/nono5342/blob/main/space2.jpg" alt="image" width="500"></a>
+  <a href="https://amnaahmed.netlify.app/"><img src="https://github.com/nono5342/nono5342/blob/main/space2.gif" alt="image" width="500"></a>
   <br>
   <br>
   Amna Ahmed
