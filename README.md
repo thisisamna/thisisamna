@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1>amna ahmed</h1>
+<h1><pre>A M N A   A H M E D</pre></h1>
 <h2>a computer scientist in the making!</h2>
 <a href="https://amnaahmed.netlify.app/"><img src="https://github.com/nono5342/nono5342/blob/main/space2.gif" alt="image"></a>
 
