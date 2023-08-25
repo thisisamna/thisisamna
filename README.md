@@ -14,13 +14,17 @@
   
 ## about me 🚀
 - my name is amna (آمنة)
-- i'm a sophomore cs student at ain shams university
+- i'm a junior cs student at ain shams university (2021 - 2025)
+-  i'm a bit of a jack (jill?) of all trades, but hopefully not a master of none!
+- i love computers, and i especially love the web.
+- i have a passion for everything design.:)
 
-##  languages and technologies 🚀
-- html/css
+##  skills currently in my arsenal 🚀
+- ux/ui
+- front-end development
 - c++
 - java
-- python
+- tiny bit of machine learning with python
 
 ## reach me 🚀
 https://amnaahmed.netlify.app/
