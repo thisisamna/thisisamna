@@ -21,10 +21,11 @@
 
 ##  skills currently in my arsenal 🚀
 - ux/ui
-- front-end development
-- c++
+- c, c++
+- c#
 - java
-- tiny bit of machine learning with python
+- python
+- machine learning
 
 ## reach me 🚀
 https://amnaahmed.netlify.app/
