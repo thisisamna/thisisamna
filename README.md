@@ -17,15 +17,18 @@
 - i'm a junior cs student at ain shams university (2021 - 2025)
 -  i'm a bit of a jack (jill?) of all trades, but hopefully not a master of none!
 - i love computers, and i especially love the web.
-- i have a passion for everything design.:)
+- i have a passion for everything design! :)
 
 ##  skills currently in my arsenal 🚀
-- ux/ui
+- ui/ux
 - c, c++
 - c#
 - java
 - python
 - machine learning
+- bash scripting
+- linux
+- blender (3d modeling)
 
 ## reach me 🚀
 https://amnaahmed.netlify.app/
