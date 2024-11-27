@@ -14,21 +14,16 @@
   
 ## about me 🚀
 - my name is amna (آمنة)
-- i'm a junior cs student at ain shams university (2021 - 2025)
--  i'm a bit of a jack (jill?) of all trades, but hopefully not a master of none!
-- i love computers, and i especially love the web.
+- i'm a senior cs student at ain shams university (2021 - 2025)
+- jack (jill?) of all trades, but striving to master my craft!
+- passionate about computers and machine learning/ai
+- an open source advocate
 - i have a passion for everything design! :)
 
-##  skills currently in my arsenal 🚀
-- ui/ux
-- c, c++
-- c#
-- java
-- python
-- machine learning
-- bash scripting
-- linux
-- blender (3d modeling)
+## what am i working on? 🚀
+- my graduation project titled "multimodal question generation"
+  - **main themes**: deep learning and nlp.
+- leading the linux committee @ open source community, fcis asu.  
 
 ## reach me 🚀
 https://amnaahmed.netlify.app/
